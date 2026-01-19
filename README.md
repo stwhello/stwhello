@@ -31,31 +31,17 @@ Outside of coding, I enjoy watching anime and exploring my creative side through
 
 ---
 
-## 💻 Tech Stack
+## Tech Stack
 
 **Frontend**  
-
-<img src="https://img.shields.io/badge/-?style=for-the-badge&logo=react&logoColor=white&color=61DAFB" />
-<img src="https://img.shields.io/badge/-?style=for-the-badge&logo=next.js&logoColor=white&color=000000" />
-<img src="https://img.shields.io/badge/-?style=for-the-badge&logo=javascript&logoColor=black&color=F7DF1E" />
-<img src="https://img.shields.io/badge/-?style=for-the-badge&logo=html5&logoColor=white&color=E34F26" />
-<img src="https://img.shields.io/badge/-?style=for-the-badge&logo=css3&logoColor=white&color=1572B6" />
-<img src="https://img.shields.io/badge/-?style=for-the-badge&logo=tailwindcss&logoColor=white&color=38B2AC" />
-<img src="https://img.shields.io/badge/-?style=for-the-badge&logo=sass&logoColor=white&color=CC6699" />
+<img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=white" /><img src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" /><img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /><img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /><img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /><img src="https://img.shields.io/badge/-Tailwind-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" /><img src="https://img.shields.io/badge/-Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
 
 **Backend & Databases**  
-
-<img src="https://img.shields.io/badge/-?style=for-the-badge&logo=node.js&logoColor=white&color=6DA55F" />
-<img src="https://img.shields.io/badge/-?style=for-the-badge&logo=django&logoColor=white&color=092E20" />
-<img src="https://img.shields.io/badge/-?style=for-the-badge&logo=mongodb&logoColor=white&color=4EA94B" />
-<img src="https://img.shields.io/badge/-?style=for-the-badge&logo=mysql&logoColor=white&color=4479A1" />
+<img src="https://img.shields.io/badge/-Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" /><img src="https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white" /><img src="https://img.shields.io/badge/-MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" /><img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 
 **Tools & Cloud**  
+<img src="https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" /><img src="https://img.shields.io/badge/-AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=black" /><img src="https://img.shields.io/badge/-GoogleCloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" /><img src="https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 
-<img src="https://img.shields.io/badge/-?style=for-the-badge&logo=vercel&logoColor=white&color=000000" />
-<img src="https://img.shields.io/badge/-?style=for-the-badge&logo=amazon-aws&logoColor=black&color=FF9900" />
-<img src="https://img.shields.io/badge/-?style=for-the-badge&logo=google-cloud&logoColor=white&color=4285F4" />
-<img src="https://img.shields.io/badge/-?style=for-the-badge&logo=figma&logoColor=white&color=F24E1E" />
 
 ---
 
