@@ -23,15 +23,17 @@ Building production-ready web applications with a focus on usability, performanc
 [![Email](https://img.shields.io/badge/Email-F4B6C2?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sherinpaul2001@gmail.com)
 
 ---
+## Tech Stack
 
-### 💻 Tech Stack
-<img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
-<img src="https://img.shields.io/badge/-Next.js-111827?style=for-the-badge&logo=next.js&logoColor=white" />
-<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/-Tailwind-9AD0EC?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-<img src="https://img.shields.io/badge/-Node.js-A7D7A5?style=for-the-badge&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/-MongoDB-9ED9B3?style=for-the-badge&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/-Vercel-CFCFCF?style=for-the-badge&logo=vercel&logoColor=black" />
+**Frontend**  
+<img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=white" /><img src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" /><img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /><img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /><img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /><img src="https://img.shields.io/badge/-Tailwind-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" /><img src="https://img.shields.io/badge/-Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
+
+**Backend & Databases**  
+<img src="https://img.shields.io/badge/-Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" /><img src="https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white" /><img src="https://img.shields.io/badge/-MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" /><img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+
+**Tools & Cloud**  
+<img src="https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" /><img src="https://img.shields.io/badge/-AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=black" /><img src="https://img.shields.io/badge/-GoogleCloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" /><img src="https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+
 
 ---
 
