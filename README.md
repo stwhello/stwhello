@@ -2,8 +2,8 @@
 
 # 🌷 Hi, I’m Sherin
 
-✨ Full Stack Developer | UI-focused | Creative at heart  
-I build clean, interactive web experiences and love blending **design + code**.
+Full Stack Developer | Scalable Web Applications | Modern UI Engineering
+Building production-ready web applications with a strong focus on usability, performance, and clean architecture.
 
 </div>
 
@@ -12,7 +12,7 @@ I build clean, interactive web experiences and love blending **design + code**.
 ## 🌸 About Me
 
 - 👩‍💻 Full Stack Developer passionate about frontend polish & smooth UX  
-- 🎯 Currently building a **Pinterest Clone** with React (UI, responsiveness & scalability)  
+- 📌 Currently building a [Pinterest Clone](https://github.com/stwhello/pinterest-clone) using React, focusing on UI consistency, responsiveness, and scalable component architecture
 - 🌱 Learning advanced React patterns, animations & GenAI integrations  
 - 🤝 Open to collaborating on **frontend-heavy & creative web projects**  
 - 💬 Ask me about React, animations, portfolio building & developer growth  
@@ -59,9 +59,9 @@ When I’m not coding, I’m probably watching anime 🎌 or deep into my crafty
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=stwhello&theme=dark&hide_border=true)
-![](https://nirzak-streak-stats.vercel.app/?user=stwhello&theme=dark&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=stwhello&layout=compact&theme=dark&hide_border=true)
+![](https://github-readme-stats.vercel.app/api?username=stwhello&theme=tokyonight&hide_border=true&title_color=AED9E0&icon_color=F2B5D4&text_color=C9D1D9)
+![](https://nirzak-streak-stats.vercel.app/?user=stwhello&theme=tokyonight&hide_border=true&ring=F2B5D4&fire=F2B5D4&currStreakLabel=AED9E0)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=stwhello&layout=compact&theme=tokyonight&hide_border=true&title_color=AED9E0)
 
 </div>
 
