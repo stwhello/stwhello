@@ -12,7 +12,7 @@ Building production-ready web applications with a strong focus on usability, per
 ## 🌸 About Me
 
 - 👩‍💻 Full Stack Developer passionate about frontend polish & smooth UX  
-- 📌 Currently building a [Pinterest Clone](https://github.com/stwhello/pinterest-clone) using React, focusing on UI consistency, responsiveness, and scalable component architecture
+- 📌 Currently building a full-stack [Pinterest Clone](https://github.com/stwhello/pinterest-clone) with React, implementing image upload/editing, responsive layouts, and modular, scalable architecture.
 - 🌱 Learning advanced React patterns, animations & GenAI integrations  
 - 🤝 Open to collaborating on **frontend-heavy & creative web projects**  
 - 💬 Ask me about React, animations, portfolio building & developer growth  
