@@ -37,46 +37,19 @@ Building production-ready web applications with a focus on usability, performanc
 
 ---
 
-### 📊 GitHub Stats <div align="center"> ![](https://github-readme-stats.vercel.app/api?username=stwhello&hide_border=true&show_icons=true&icon_color=F4B6C2&title_color=9AD0EC&text_color=8B8B8B&bg_color=00000000) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=stwhello&layout=compact&hide_border=true&title_color=9AD0EC&text_color=8B8B8B&bg_color=00000000) </div>
-
-
----
-
----
-
-## 🔥 Contribution Streak
+## 📊 GitHub Stats
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="200">
+![](https://github-readme-stats.vercel.app/api?username=stwhello&hide_border=true&show_icons=true&icon_color=F4B6C2&title_color=9AD0EC&text_color=8B8B8B&bg_color=00000000)
 
-### 573  
-**Total Contributions**  
-<sub>Oct 5, 2021 – Present</sub>
+![](https://github-readme-streak-stats.herokuapp.com?user=stwhello&hide_border=true&background=00000000&stroke=9AD0EC&ring=F4B6C2&fire=F4B6C2&currStreakLabel=9AD0EC&sideLabels=9AD0EC&dates=8B8B8B)
 
-</td>
-
-<td align="center" width="200">
-
-### 🔥 3  
-**Current Streak**  
-<sub>Jan 18 – Jan 20</sub>
-
-</td>
-
-<td align="center" width="200">
-
-### 11  
-**Longest Streak**  
-<sub>Dec 1 – Dec 11, 2025</sub>
-
-</td>
-</tr>
-</table>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=stwhello&layout=compact&hide_border=true&title_color=9AD0EC&text_color=8B8B8B&bg_color=00000000)
 
 </div>
+
+---
 
 
 <div align="center">
