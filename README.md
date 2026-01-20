@@ -54,4 +54,3 @@ Crafting thoughtful web experiences, one project at a time
 
 </div>
 
-in this can u also add the longest streat cirrent straek data in chart like form like others
