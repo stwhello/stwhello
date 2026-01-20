@@ -1,21 +1,67 @@
-# 💫 About Me:
-Hi, I’m Sherin 👋<br>Full Stack Developer | Modern UI | Scalable Web Apps<br><br>Building production-ready web applications with a focus on usability, performance, and clean architecture.<br><br>🌱 What I’m up to<br>Working on a full-stack Pinterest Clone (React, image upload & editing)<br>Exploring advanced React patterns, animations, and GenAI<br>Open to frontend-focused & creative collaborations<br>✨ Fun fact: I love anime and enjoy expressing creativity through art & craft.
+<div align="center">
 
+## Hi, I’m Sherin 👋  
+**Full Stack Developer | Modern UI | Scalable Web Apps**
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/http://www.linkedin.com/in/sherinann) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sherinpaul2001@gmail.com) 
+Building production-ready web applications with a focus on usability, performance, and clean architecture.
 
-# 💻 Tech Stack:
-![Next JS](https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat-square&logo=google-cloud&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=stwhello&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=stwhello&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=stwhello&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=stwhello&limit=5&theme=dark&combine_all_yearly_contributions=true)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=stwhello&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🌱 What I’m up to
+- Working on a full-stack **Pinterest Clone** (React, image upload & editing)  
+- Exploring advanced **React patterns, animations, and GenAI**  
+- Open to **frontend-focused & creative collaborations**
+
+✨ **Fun fact:** I love anime and enjoy expressing creativity through art & craft.
+
+---
+
+## 🌐 Connect
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-9AD0EC?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sherinann)
+[![Email](https://img.shields.io/badge/Email-F4B6C2?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sherinpaul2001@gmail.com)
+
+</div>
+
+---
+
+## 💻 Tech Stack
+
+**Frontend**  
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+
+**Backend & Tools**  
+<img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+
+---
+
+## 📊 GitHub Stats
+<div align="center">
+
+![](https://github-readme-stats.vercel.app/api?username=stwhello&hide_border=true&show_icons=true&icon_color=F4B6C2&title_color=9AD0EC&text_color=8B8B8B&bg_color=00000000)
+
+![](https://github-readme-streak-stats.herokuapp.com?user=stwhello&hide_border=true&background=00000000&ring=F4B6C2&fire=F4B6C2&currStreakLabel=9AD0EC&sideLabels=9AD0EC&dates=8B8B8B)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=stwhello&layout=compact&hide_border=true&title_color=9AD0EC&text_color=8B8B8B&bg_color=00000000)
+
+</div>
+
+---
+
+<div align="center">
+
+🌷 Thanks for stopping by  
+Crafting thoughtful web experiences, one project at a time
+
+</div>
