@@ -42,6 +42,43 @@ Building production-ready web applications with a focus on usability, performanc
 
 ---
 
+---
+
+## 🔥 Contribution Streak
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="200">
+
+### 573  
+**Total Contributions**  
+<sub>Oct 5, 2021 – Present</sub>
+
+</td>
+
+<td align="center" width="200">
+
+### 🔥 3  
+**Current Streak**  
+<sub>Jan 18 – Jan 20</sub>
+
+</td>
+
+<td align="center" width="200">
+
+### 11  
+**Longest Streak**  
+<sub>Dec 1 – Dec 11, 2025</sub>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+
 <div align="center">
 
 🌷 Thanks for stopping by  
