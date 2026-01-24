@@ -10,7 +10,7 @@ Building production-ready web applications with a focus on usability, performanc
 ---
 
 ### 🌱 What I’m up to
-- Working on a full-stack [Pinterest Clone](https://github.com/stwhello/pinterest-clone) (React image upload & editing)  
+- Working on a full-stack [Pinterest Clone](https://github.com/stwhello/pinterest-clone) (React, image upload & editing)  
 - Exploring advanced React patterns, animations, and GenAI  
 - Open to frontend-focused & creative collaborations  
 
