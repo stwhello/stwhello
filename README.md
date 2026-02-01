@@ -49,7 +49,7 @@ Building production-ready web applications with a focus on usability, performanc
 
 <div align="center">
 
-🌷 Thanks for stopping by  
+🌷 Thanks for stopping by !
 Crafting thoughtful web experiences, one project at a time
 
 </div>
