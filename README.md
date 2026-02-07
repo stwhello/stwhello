@@ -37,15 +37,6 @@ Building production-ready web applications with a focus on usability, performanc
 
 ---
 
-### GitHub Stats
-<div align="center">
-
-![](https://github-readme-stats.vercel.app/api?username=stwhello&hide_border=true&show_icons=true&icon_color=F4B6C2&title_color=9AD0EC&text_color=8B8B8B&bg_color=00000000)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=stwhello&layout=compact&hide_border=true&title_color=9AD0EC&text_color=8B8B8B&bg_color=00000000)
-
-</div>
-
----
 
 <div align="center">
 
@@ -55,4 +46,3 @@ Crafting thoughtful web experiences, one project at a time
 </div>
 
 
-why is my git stats mnot working
