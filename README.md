@@ -22,7 +22,7 @@ Building production-ready web applications with a focus on usability, performanc
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-9AD0EC?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sherinann)
 [![Email](https://img.shields.io/badge/Email-F4B6C2?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sherinpaul2001@gmail.com)
 
----
+
 ## Tech Stack
 
 **Frontend**  
