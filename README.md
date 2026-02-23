@@ -1,6 +1,6 @@
 <div align="center">
 
-# Sherin Ann Paul
+# Hi I'm Sherin !
 
 ### Full Stack Developer · React · Node.js · Scalable Web Applications
 
