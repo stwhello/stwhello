@@ -1,92 +1,79 @@
 <div align="center">
 
-# 🌸 Hi, I'm Sherin
+# Sherin Ann
 
-### Full Stack Developer · React Specialist · UI Enthusiast
+### Full Stack Developer · React · Node.js · Scalable Web Applications
 
-I build modern, scalable web applications with a strong focus on  
-**beautiful user interfaces, performance, and clean architecture.**
+Building thoughtful, production-ready web apps with a focus on  
+clean architecture, performance, and modern user interfaces.
 
-I enjoy turning ideas into thoughtful digital experiences that people genuinely love to use.
+<br>
+
+<a href="https://linkedin.com/in/sherinann">
+<img src="https://img.shields.io/badge/LinkedIn-A8D8EA?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:sherinpaul2001@gmail.com">
+<img src="https://img.shields.io/badge/Email-F8C8DC?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
 </div>
 
 ---
 
-## ✨ About Me
+## ▢ About
 
-🌷 Full Stack Developer with experience in building production-ready apps  
-🎨 Passionate about modern UI, animations, and creative frontend work  
-⚡ Strong focus on performance, usability, and clean code  
-🤖 Currently exploring GenAI and advanced React patterns  
+• Full Stack Developer specializing in React and Node.js  
+• Experience building scalable frontend and backend systems  
+• Strong focus on UI quality, usability, and performance  
+• Interested in modern frontend architecture and GenAI integration  
 
-✨ I also love anime, art, and expressing creativity beyond code.
+Currently building a production-level:
 
----
-
-## 🚧 Current Focus
-
-🌱 Building a full-stack  
-→ [Pinterest Clone](https://github.com/stwhello/pinterest-clone)  
-(React · Image Upload · Editing · Backend Integration)
-
-🌱 Improving frontend architecture & animation skills  
-
-🌱 Open to **frontend-focused and creative collaborations**
+**Pinterest Clone**  
+https://github.com/stwhello/pinterest-clone
 
 ---
 
-## 💻 Tech Stack
+## ▢ Tech Stack
 
-### 🎀 Frontend
-<p>
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white"/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-<img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
-</p>
+### Frontend
 
-### 🧠 Backend & Database
-<p>
-<img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-</p>
-
-### ☁️ Tools & Cloud
-<p>
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=black"/>
-<img src="https://img.shields.io/badge/GoogleCloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-</p>
+<img src="https://img.shields.io/badge/React-B8E3F4?style=for-the-badge&logo=react&logoColor=084C61"/>
+<img src="https://img.shields.io/badge/Next.js-EAD7F6?style=for-the-badge&logo=next.js&logoColor=3D2C54"/>
+<img src="https://img.shields.io/badge/JavaScript-F9E79F?style=for-the-badge&logo=javascript&logoColor=7D6608"/>
+<img src="https://img.shields.io/badge/HTML5-F5B7B1?style=for-the-badge&logo=html5&logoColor=78281F"/>
+<img src="https://img.shields.io/badge/CSS3-AED6F1?style=for-the-badge&logo=css3&logoColor=1B4F72"/>
+<img src="https://img.shields.io/badge/Tailwind-C7F0DB?style=for-the-badge&logo=tailwindcss&logoColor=0E6251"/>
+<img src="https://img.shields.io/badge/Sass-F5C6EC?style=for-the-badge&logo=sass&logoColor=6C3483"/>
 
 ---
 
-## 🤝 Let's Connect
+### Backend
 
-<p align="center">
+<img src="https://img.shields.io/badge/Node.js-C8E6C9?style=for-the-badge&logo=node.js&logoColor=1B5E20"/>
+<img src="https://img.shields.io/badge/Django-D7CCC8?style=for-the-badge&logo=django&logoColor=3E2723"/>
 
-<a href="https://linkedin.com/in/sherinann">
-<img src="https://img.shields.io/badge/LinkedIn-9AD0EC?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+---
 
-<a href="mailto:sherinpaul2001@gmail.com">
-<img src="https://img.shields.io/badge/Email-F4B6C2?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+### Database
 
-</p>
+<img src="https://img.shields.io/badge/MongoDB-C5E1A5?style=for-the-badge&logo=mongodb&logoColor=33691E"/>
+<img src="https://img.shields.io/badge/MySQL-B3E5FC?style=for-the-badge&logo=mysql&logoColor=01579B"/>
+
+---
+
+### Cloud & Tools
+
+<img src="https://img.shields.io/badge/Vercel-E1BEE7?style=for-the-badge&logo=vercel&logoColor=4A148C"/>
+<img src="https://img.shields.io/badge/AWS-FFE0B2?style=for-the-badge&logo=amazonaws&logoColor=E65100"/>
+<img src="https://img.shields.io/badge/GoogleCloud-B2DFDB?style=for-the-badge&logo=googlecloud&logoColor=004D40"/>
+<img src="https://img.shields.io/badge/Figma-FFD1DC?style=for-the-badge&logo=figma&logoColor=880E4F"/>
 
 ---
 
 <div align="center">
 
-🌸 Thanks for visiting my profile  
-
-I love crafting thoughtful, elegant, and meaningful web experiences.
+Design-focused. System-minded. Full Stack.
 
 </div>
