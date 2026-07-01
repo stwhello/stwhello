@@ -29,8 +29,8 @@ Building thoughtful, production-ready web applications with a focus on clean arc
 
 Current project:
 
-Pinterest Clone  
-https://github.com/stwhello/pinterest-clone
+React Animation Playground
+https://github.com/stwhello/react-playground
 
 ---
 
